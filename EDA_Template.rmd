@@ -7,7 +7,6 @@ library(tidyverse)
 ```
 
 
-
 # Creator: Karen Joya
 
 ### Q1: WRITE_QUESTION_HERE
@@ -68,13 +67,13 @@ library(tidyverse)
 
 # Deliverer: Halie Chmura
 
-### Q1: WRITE_QUESTION_HERE
+### Q1: Which type of shark does unprovoked attacks occur the most with?
 
 ```{r}
 #
 ```
 
-### Q2: WRITE_QUESTION_HERE
+### Q2: Where on the human body is the most common injury (arm, leg, torso, etc)?
 
 ```{r}
 #
