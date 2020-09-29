@@ -6,7 +6,9 @@ library(tidyverse)
 # read_csv()
 ```
 
-# Creator: FIRSTNAME LASTNAME
+
+
+# Creator: Karen Joya
 
 ### Q1: WRITE_QUESTION_HERE
 
@@ -20,7 +22,7 @@ library(tidyverse)
 #
 ```
 
-# Interpreter: FIRSTNAME LASTNAME
+# Interpreter: Yu Ji
 
 ### Q1: WRITE_QUESTION_HERE
 
@@ -34,7 +36,7 @@ library(tidyverse)
 #
 ```
 
-# Orator: FIRSTNAME LASTNAME
+# Orator1: Daniel Kang
 
 ### Q1: WRITE_QUESTION_HERE
 
@@ -48,7 +50,23 @@ library(tidyverse)
 #
 ```
 
-# Deliverer: FIRSTNAME LASTNAME
+# Orator2: Samuel Loch
+
+### Q1: WRITE_QUESTION_HERE
+
+```{r}
+#
+```
+
+### Q2: WRITE_QUESTION_HERE
+
+```{r}
+#
+```
+
+
+
+# Deliverer: Halie Chmura
 
 ### Q1: WRITE_QUESTION_HERE
 
